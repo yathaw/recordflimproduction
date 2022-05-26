@@ -30,3 +30,11 @@ h1,h2,h3,h4,h5,h6{
     background-color: #0F172B;
     color: #FDEC03;
 }
+
+#joinsection{
+    background: url(../img/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+}
